@@ -23,6 +23,10 @@
 - [FIRA ThunderVolt](https://github.com/ThundeRatz/fira_thundervolt) - Project from Poli USP that won second place at IRON Cup 2021
 - [PinguimBots/VSSS](https://github.com/PinguimBots/VSSS) - Project from UFPel
 
+## Vision software
+
+- [robocin/vss-vision](https://github.com/robocin/vss-vision)
+
 ## Libraries
 
 - [Ararabots Univector Field](https://github.com/juancclcarvalho/univector-field) - Ararabots implementation of Unified Vector Fields navigation algorithm
