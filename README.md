@@ -15,8 +15,8 @@
 
 ## Simulators
 
-- [FIRASim](https://github.com/futebol-mini/FIRASim)
-- [TraveSim](https://github.com/futebol-mini/travesim)
+- [FIRASim](https://github.com/futebol-mini/FIRASim) - Custom made simulator based on RoboCup SSL simulator grSim
+- [TraveSim](https://github.com/futebol-mini/travesim) - Simulation environment built upon Webots
 
 ## Complete projects
 
