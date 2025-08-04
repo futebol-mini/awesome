@@ -18,6 +18,11 @@
 - [FIRASim](https://github.com/futebol-mini/FIRASim) - Custom made simulator based on RoboCup SSL simulator grSim
 - [TraveSim](https://github.com/futebol-mini/travesim) - Simulation environment built upon Webots
 
+## Minimal clients
+
+- [VSSClient.py](https://github.com/futebol-mini/VSSClient.py) - Minimal VSS client in Python
+- [FIRAClient](https://github.com/futebol-mini/FIRAClient) - Minimal VSS client in Python
+
 ## Complete projects
 
 - [FIRA ThunderVolt](https://github.com/ThundeRatz/fira_thundervolt) - Project from Poli USP that won second place at IRON Cup 2021
