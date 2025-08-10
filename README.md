@@ -45,6 +45,7 @@
 ## Guides
 
 - [ThundeRatz/STM32Guide](https://github.com/ThundeRatz/STM32Guide) - Complete library for STM32 MCUs programming
+- [ThundeRatz/STM32ProjectTemplate](https://github.com/ThundeRatz/STM32ProjectTemplate/) - Template for STM32 projects
 
 ## Articles
 
