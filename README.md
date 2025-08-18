@@ -6,7 +6,8 @@
 
 - [Ararabots](https://github.com/Ararabots-UFMS) - Team from UFMS
 - [PinguimBots](https://github.com/PinguimBots) - Team from UFPel
-- [RoboCin](https://github.com/robocin) - Team from UFPE/CIn
+- [Project Neon](https://github.com/project-neon) - Team from UFABC
+- [RoboCIn](https://github.com/robocin) - Team from UFPE/CIn
 - [ThundeRatz](https://github.com/ThundeRatz/) - Team from Poli USP
 
 ## Teams Description Papers
@@ -21,12 +22,13 @@
 ## Minimal clients
 
 - [VSSClient.py](https://github.com/futebol-mini/VSSClient.py) - Minimal VSS client in Python
-- [FIRAClient](https://github.com/futebol-mini/FIRAClient) - Minimal VSS client in Python
+- [FIRAClient](https://github.com/futebol-mini/FIRAClient) - Minimal VSS client in C++
 
 ## Complete projects
 
 - [FIRA ThunderVolt](https://github.com/ThundeRatz/fira_thundervolt) - Project from Poli USP that won second place at IRON Cup 2021
 - [PinguimBots/VSSS](https://github.com/PinguimBots/VSSS) - Project from UFPel
+- [Neon FC](https://github.com/project-neon/NeonFC) - Project from UFABC
 
 ## Vision software
 
@@ -72,6 +74,7 @@
 ### 2021
 
 - [rSoccer: A Framework for Studying Reinforcement Learning in Small and Very Small Size Robot Soccer](https://arxiv.org/abs/2106.12895)
+- [MaggicVision: A Fast and Lighting-invariant Computer Vision System for IEEE Very Small Size Soccer](https://www.cin.ufpe.br/~tg/2020-1/TG_EC/tg_lom.pdf)
 
 ### 2020
 
